@@ -1,6 +1,8 @@
 <template>
   <v-app-bar  color="transparent">
-    
+    <v-img
+        src="../assets/logoD&G.png"
+      ></v-img>
     <v-app-bar-title >
 
       D&G-Rubrics

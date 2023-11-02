@@ -1,15 +1,18 @@
-<template>
-    <div>
+<template >
+  
+    <div class="hero">
+
       <v-img
         class="mx-auto my-6"
         max-width="228"
-        src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-slim-text-light.svg"
+        src="../assets/logoD&G.png"
       ></v-img>
   
       <v-card
         class="mx-auto pa-12 pb-8"
         elevation="8"
-        max-width="448"
+        max-width="430"
+        max-height="380"
         rounded="lg"
       >
         <div class="text-subtitle-1 text-medium-emphasis">Account</div>
@@ -43,21 +46,15 @@
           @click:append-inner="visible = !visible"
         ></v-text-field>
   
-        <v-card
-          class="mb-12"
-          color="surface-variant"
-          variant="tonal"
-        >
-        </v-card>
   
         <v-btn
           block
           class="mb-8"
-          color="blue"
+          color="green"
           size="large"
           variant="tonal"
         >
-          Log In
+          Log in
         </v-btn>
   
         <v-card-text class="text-center">
@@ -80,3 +77,10 @@
     }),
   }
 </script>
+<style scoped>
+.hero {
+  background: url('../assets/rubrica.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+</style>

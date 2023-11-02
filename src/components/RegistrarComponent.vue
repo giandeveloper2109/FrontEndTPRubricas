@@ -1,19 +1,28 @@
-<template>
-    <div>
-      <v-img
-        class="mx-auto my-6"
-        max-width="228"
-        src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-slim-text-light.svg"
-      ></v-img>
-  
+<template >
+    <div class="hero">
+
+    <v-divider :thickness="20" class="border-opacity-0"></v-divider>
       <v-card
         class="mx-auto pa-12 pb-8"
-        elevation="8"
-        max-width="448"
-        rounded="lg"
+        elevation="2"
+        max-width="440"
+        max-height="500"
+
       >
-        <div class="text-subtitle-1 text-medium-emphasis">Account</div>
-  
+      <v-img
+        class="mx-auto"
+        max-width="150"
+        src="../assets/logoD&G.png"
+      ></v-img>
+        <div class="text-subtitle-1 text-medium-emphasis">Nombre</div>
+        <v-text-field
+          density="compact"
+          placeholder="Nombre completo"
+          prepend-inner-icon="mdi-account-outline"
+          variant="outlined"
+        ></v-text-field>  
+
+        <div class="text-subtitle-1 text-medium-emphasis">Correo</div>
         <v-text-field
           density="compact"
           placeholder="Email address"
@@ -21,18 +30,8 @@
           variant="outlined"
         ></v-text-field>
   
-        <div class="text-subtitle-1 text-medium-emphasis d-flex align-center justify-space-between">
-          Password
-  
-          <a
-            class="text-caption text-decoration-none text-blue"
-            href="#"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            Forgot login password?</a>
-        </div>
-  
+
+        <div class="text-subtitle-1 text-medium-emphasis">Contraseña</div>  
         <v-text-field
           :append-inner-icon="visible ? 'mdi-eye-off' : 'mdi-eye'"
           :type="visible ? 'text' : 'password'"
@@ -43,21 +42,15 @@
           @click:append-inner="visible = !visible"
         ></v-text-field>
   
-        <v-card
-          class="mb-12"
-          color="surface-variant"
-          variant="tonal"
-        >
-        </v-card>
   
         <v-btn
           block
           class="mb-8"
-          color="blue"
+          color="green"
           size="large"
           variant="tonal"
         >
-          Registrarse
+          Sign Up
         </v-btn>
   
       </v-card>
@@ -70,3 +63,10 @@
     }),
   }
 </script>
+<style scoped>
+.hero {
+  background: url('../assets/rubrica.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+</style>
