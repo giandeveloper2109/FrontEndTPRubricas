@@ -13,7 +13,7 @@
     <v-btn plain>Contactenos</v-btn>
     <v-btn  variant="plain" to="/Login" >Login</v-btn>
     
-    <v-btn variant="tonal" router-link to="/login">Sign Up</v-btn>
+    <v-btn variant="tonal" router-link to="/registrarse">Sign Up</v-btn>
 
     
   </v-app-bar>
