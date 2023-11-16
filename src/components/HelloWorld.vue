@@ -1,17 +1,17 @@
 <template>
   <v-carousel>
     <v-carousel-item
-      src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+      src="https://elurnet.net/wp-content/uploads/2020/05/Rubrica-980x693.jpg"
       cover
     ></v-carousel-item>
   
     <v-carousel-item
-      src="https://cdn.vuetifyjs.com/images/cards/hotel.jpg"
+      src="https://www.orientacionandujar.es/wp-content/uploads/2023/03/PLANTILLA-EDITABLE-PARA-HACER-TUS-PROPIAS-RIUBRICAS.jpg"
       cover
     ></v-carousel-item>
   
     <v-carousel-item
-      src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+      src="https://www.erubrica.com/blog/wp-content/uploads/2019/04/forms.png"
       cover
     ></v-carousel-item>
   </v-carousel>

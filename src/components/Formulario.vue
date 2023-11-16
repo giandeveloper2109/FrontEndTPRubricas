@@ -60,7 +60,7 @@
         </v-col>
         <v-divider class="border-opacity-0" vertical></v-divider>
         <v-col>
-          <v-card text=" ">
+          <v-card text="Contactenos">
             <v-container>
       <v-row>
         <v-col
