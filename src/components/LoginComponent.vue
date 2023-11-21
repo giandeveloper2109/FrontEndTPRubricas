@@ -53,6 +53,7 @@
           color="green"
           size="large"
           variant="tonal"
+          href="/mainRubricas"
         >
           Log in
         </v-btn>
