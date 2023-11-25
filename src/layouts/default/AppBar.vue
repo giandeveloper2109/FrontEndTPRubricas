@@ -6,7 +6,6 @@
     <v-btn plain >Principal</v-btn>
     <v-btn plain>Quienes Somos</v-btn>
     <v-btn plain>Rubricas</v-btn>
-    <v-btn plain>Premiun</v-btn>
     <v-btn plain>Contactenos</v-btn> 
     <v-btn  variant="plain" to="/Login" >Login</v-btn>
     

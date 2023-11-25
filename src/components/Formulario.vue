@@ -56,11 +56,11 @@
 
       
     </v-container>            
-          </v-card>
+          </v-card >
         </v-col>
         <v-divider class="border-opacity-0" vertical></v-divider>
         <v-col>
-          <v-card text="Contactenos">
+    <v-card text="Contactenos" >
             <v-container>
       <v-row>
         <v-col
