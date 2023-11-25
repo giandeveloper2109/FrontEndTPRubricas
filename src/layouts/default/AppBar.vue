@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar  color="blue">
+  <v-app-bar  color="green-lighten-5">
     <v-img src="@/assets/logoD&G.png"></v-img>
 
     <v-spacer></v-spacer>

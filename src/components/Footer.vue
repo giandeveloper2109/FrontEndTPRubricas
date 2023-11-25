@@ -1,7 +1,7 @@
 <template>
 
     <v-footer
-      class="bg-blue-darken-1 text-center d-flex flex-column"
+      class="bg-green-lighten-5 text-center d-flex flex-column"
     >
 
       <div>
