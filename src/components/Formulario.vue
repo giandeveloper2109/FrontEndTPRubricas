@@ -16,7 +16,7 @@
   >
     <v-card-item>
       <v-card-title>
-        Card title
+        Edicion title
       </v-card-title>
       <v-card-subtitle>
         Card subtitle secondary text
