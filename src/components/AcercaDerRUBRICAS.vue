@@ -9,7 +9,7 @@
       max-width="344"
     >
       <v-card-text>
-        <div>Word of the Day</div>
+        <div> SOLAASDDSFS</div>
         <p class="text-h4 text--primary">
           el·ee·mos·y·nar·y
         </p>
