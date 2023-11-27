@@ -30,6 +30,7 @@
 import Formulario from './Formulario.vue';
   export default {
     data: () => ({
+      
         icons: [
             "mdi-facebook",
             "mdi-twitter",

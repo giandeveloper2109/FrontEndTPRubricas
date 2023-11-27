@@ -9,14 +9,16 @@
       max-width="344"
     >
       <v-card-text>
-        <div> SOLAASDDSFS</div>
+        
+        
         <p class="text-h4 text--primary">
-          el·ee·mos·y·nar·y
+          Definición y Propósito
         </p>
-        <p>adjective</p>
+       
         <div class="text--primary">
-          relating to or dependent on charity; charitable; charitable donations. Pertaining to alms.<br>
-          "an eleemosynary educational institution."
+          Una rúbrica es una herramienta de evaluación que establece criterios claros para la evaluación de tareas o proyectos.
+           Su propósito principal es proporcionar una guía objetiva
+           y transparente para la evaluación, facilitando la comprensión de las expectativas y mejorando la consistencia en la calificación."
         </div>
       </v-card-text>
       <v-card-actions>
@@ -37,9 +39,9 @@
         >
           <v-card-text class="pb-0">
             <p class="text-h4 text--primary">
-              Origin
+              ¿Cómo se diferencia de otros métodos de evaluación?
             </p>
-            <p>late 16th century (as a noun denoting a place where alms were distributed): from medieval Latin eleemosynarius, from late Latin eleemosyna ‘alms’, from Greek eleēmosunē ‘compassion’ </p>
+            <p>A diferencia de métodos de evaluación más subjetivos, como las calificaciones tradicionales, las rúbricas ofrecen un enfoque más estructurado y objetivo para la evaluación. </p>
           </v-card-text>
           <v-card-actions class="pt-0">
             <v-btn
@@ -62,14 +64,15 @@
       max-width="344"
     >
       <v-card-text>
-        <div>Word of the Day</div>
+        
         <p class="text-h4 text--primary">
-          el·ee·mos·y·nar·y
+          Estructura y Componentes:
+
         </p>
-        <p>adjective</p>
+        
         <div class="text--primary">
-          relating to or dependent on charity; charitable; charitable donations. Pertaining to alms.<br>
-          "an eleemosynary educational institution."
+          La estructura típica de una rúbrica incluye criterios de evaluación específicos, niveles de desempeño y descripciones para cada nivel. 
+          
         </div>
       </v-card-text>
       <v-card-actions>
@@ -90,9 +93,10 @@
         >
           <v-card-text class="pb-0">
             <p class="text-h4 text--primary">
-              Origin
+              ¿Cómo se organizan los criterios?
             </p>
-            <p>late 16th century (as a noun denoting a place where alms were distributed): from medieval Latin eleemosynarius, from late Latin eleemosyna ‘alms’, from Greek eleēmosunē ‘compassion’ </p>
+            <p>  Los criterios se organizan jerárquicamente,con categorías principales y subcategorías que desglosan 
+              los aspectos clave de la tarea.</p>
           </v-card-text>
           <v-card-actions class="pt-0">
             <v-btn
@@ -122,14 +126,15 @@
       max-width="344"
     >
       <v-card-text>
-        <div>Word of the Day</div>
+        
         <p class="text-h4 text--primary">
-          el·ee·mos·y·nar·y
+          Cómo Crear y Utilizar Rúbricas
         </p>
         <p>adjective</p>
         <div class="text--primary">
-          relating to or dependent on charity; charitable; charitable donations. Pertaining to alms.<br>
-          "an eleemosynary educational institution."
+          Para diseñar rúbricas efectivas, comienza identificando los criterios clave relacionados con la tarea. 
+          Establece niveles de desempeño que reflejen la variación en la calidad del trabajo. 
+          
         </div>
       </v-card-text>
       <v-card-actions>
@@ -150,9 +155,9 @@
         >
           <v-card-text class="pb-0">
             <p class="text-h4 text--primary">
-              Origin
+              ¿Cómo identificar criterios relevantes?
             </p>
-            <p>late 16th century (as a noun denoting a place where alms were distributed): from medieval Latin eleemosynarius, from late Latin eleemosyna ‘alms’, from Greek eleēmosunē ‘compassion’ </p>
+            <p>Identificar criterios relevantes implica comprender los objetivos de la tarea y descomponerla en sus componentes fundamentales. </p>
           </v-card-text>
           <v-card-actions class="pt-0">
             <v-btn
@@ -177,14 +182,16 @@
       max-width="344"
     >
       <v-card-text>
-        <div>Word of the Day</div>
+       
         <p class="text-h4 text--primary">
-          el·ee·mos·y·nar·y
+          Beneficios y Mejores Prácticas
         </p>
-        <p>adjective</p>
+        
         <div class="text--primary">
-          relating to or dependent on charity; charitable; charitable donations. Pertaining to alms.<br>
-          "an eleemosynary educational institution."
+          Las rúbricas promueven la equidad, objetividad y claridad en la evaluación. Además, facilitan la retroalimentación constructiva
+           y el desarrollo de habilidades. Para maximizar su efectividad, actualiza las rúbricas según sea necesario, comunica claramente los
+            criterios a los evaluados. 
+          
         </div>
       </v-card-text>
       <v-card-actions>
@@ -205,9 +212,8 @@
         >
           <v-card-text class="pb-0">
             <p class="text-h4 text--primary">
-              Origin
-            </p>
-            <p>late 16th century (as a noun denoting a place where alms were distributed): from medieval Latin eleemosynarius, from late Latin eleemosyna ‘alms’, from Greek eleēmosunē ‘compassion’ </p>
+              ¿Cómo las rúbricas aseguran consistencia en la evaluación?</p>
+            <p>Al proporcionar criterios claros y descripciones detalladas para cada nivel de desempeño, las rúbricas reducen la ambigüedad y ayudan a los evaluadores a aplicar estándares consistentes, mejorando así la fiabilidad de la evaluación </p>
           </v-card-text>
           <v-card-actions class="pt-0">
             <v-btn
